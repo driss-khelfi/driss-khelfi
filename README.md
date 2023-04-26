@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @driss-khelfi, I'm 27, I'm a student at La Plateforme_ in Marseille (France)
-- 👀 I’m interested in
+- 👀 I’m interested in IT, video games, science, music, cinema and many other things
 - 🌱 I’m currently learning Python, C#, HTML/CSS and many other language and software
 - 💞️ I’m looking for collaborate on for a company in alternating work, in software developement job
 - 📫 You can reach me by mail to driss.khelfi@laplateforme.io or d.khelfi@laposte.net
