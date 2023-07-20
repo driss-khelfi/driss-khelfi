@@ -7,7 +7,7 @@ I'm make some video games too.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/-portfolio-lightgrey)](https://driss-khelfi.students-laplateforme.io/)
+[![portfolio](https://img.shields.io/badge/-portfolio-lightgrey)](https://driss-khelfi.students-laplateforme.io/portfolio/)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/driss-khelfi/)
 
 
@@ -18,4 +18,14 @@ I'm make some video games too.
 - C#
 - HTML/CSS
 - Java
+- J2EE
 
+## 👨‍💻 Softwares
+- Visual Studio Code
+- IntelliJ Idea
+- Figma
+- Trello
+- Google Suite 
+- Adobe Suite 
+- Unity
+- GitHub
