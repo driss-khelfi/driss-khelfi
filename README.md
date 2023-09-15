@@ -17,8 +17,8 @@ I'm make some video games too.
 - SQL
 - C#
 - HTML/CSS
-- Java
-- J2EE
+- Java (SE/EE/Spring)
+- JavaScript
 
 ## 👨‍💻 Softwares
 - Visual Studio Code
