@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I'm a software developement student. 
-I'm make some video games too.
+I make some video games too.
 
 
 ## 🔗 Links
