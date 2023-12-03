@@ -16,6 +16,7 @@ I make some video games too.
 - Python
 - SQL
 - C#
+- C
 - HTML/CSS
 - Java (SE/EE/Spring)
 - JavaScript
