@@ -17,6 +17,7 @@ I make some video games too.
 - SQL
 - C#
 - C
+- C++
 - HTML/CSS
 - Java (SE/EE/Spring)
 - JavaScript
