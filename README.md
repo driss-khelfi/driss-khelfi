@@ -21,12 +21,15 @@ I'm a software development student, and I also create video games.
 - Java (SE/EE/Spring)
 - JavaScript
 
-## 👨‍💻 Softwares
+## 👨‍💻 Softwares and Technologies
 - Visual Studio Code
 - IntelliJ Idea
+- Microsoft Visual Studio Code
 - Figma
 - Trello
 - Google Suite 
 - Adobe Suite 
 - Unity
 - GitHub
+- .NET
+- Microsoft Azure
