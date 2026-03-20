@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a software development student, and I also create video games.
+I'm a software developer, and I also create video games.
 
 
 ## 🔗 Links
@@ -20,11 +20,11 @@ I'm a software development student, and I also create video games.
 - HTML/CSS
 - Java (SE/EE/Spring)
 - JavaScript
+- Rust
 
 ## 👨‍💻 Softwares and Technologies
-- Visual Studio Code
-- IntelliJ Idea
-- Microsoft Visual Studio Code
+
+
 - Figma
 - Trello
 - Google Suite 
@@ -34,3 +34,4 @@ I'm a software development student, and I also create video games.
 - .NET
 - Microsoft Azure
 - Docker
+- n8n
